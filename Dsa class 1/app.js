@@ -90,9 +90,13 @@
 // console.log(lenght * widht)
 
 
-let a  = 5;
-let b  = 10;
-let c  = 3;
+// let a  = 5;
+// let b  = 10;
+// let c  = 3;
 
-let s = (a+b+c)/2
-console.log(Math.sqrt(s * (s-a) * Math.abs((s-b)) * (s-c)))
+// let s = (a+b+c)/2
+// console.log(Math.sqrt(s * (s-a) * Math.abs((s-b)) * (s-c)))
+
+
+
+
